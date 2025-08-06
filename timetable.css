@@ -1,0 +1,46 @@
+ 
+
+.heading {
+    text-align: center;
+}
+
+.date {
+     
+    font-size: 18px;
+    color: black;
+    margin-left: 10px;
+}
+
+.sec {
+    font-size: 25px;
+    color: black;
+    margin-right: 50px;
+}
+
+.clstchr{
+font-size: 25px;
+    color: black;
+    text-align: center;
+}
+
+.lec{
+    font-size: 25px;
+    color: black;
+    margin-left: 50px;
+
+}
+
+ table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+   table{
+    width: 90%;
+   margin-left: 80px;
+    
+   }
+
+
+ td {
+    text-align: center;
+ }
